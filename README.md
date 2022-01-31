@@ -13,7 +13,7 @@ cd into desired directory andf run the following commands
  - npm install --save-dev cypress-cucumber-preprocessor
 
 4. Clone this repository to your local by running 
-- git clone <url of this repo>
+- git clone <<url of this repo>>
 
 
 4. Run cypress
