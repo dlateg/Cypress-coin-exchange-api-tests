@@ -1,4 +1,4 @@
-# Ziglu
+# This is a cypress test that navigates to the websites and fetches the coins 
 1. Install node 
 
 You can download node.js or visit https://nodejs.org/en/download/package-manager/#windows 
