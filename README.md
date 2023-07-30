@@ -1,4 +1,4 @@
-# This is a cypress framework(Gherkin feature files + javascript step files) designed to fetch the exchange market data, the first seen time for selected coins and the historic data for selected coins using the coinranking api
+# A cypress framework(Gherkin feature files + javascript step files) designed to fetch the exchange market data, the first seen time for selected coins and the historic data for selected coins using the coinranking api
 
 
 Steps for running the code:
